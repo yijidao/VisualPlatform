@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualPlatform_Design", "VisualPlatform_Design\VisualPlatform_Design.csproj", "{37FAC069-D436-4431-A3ED-0F90C3588240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualPlatform_Design", "VisualPlatform_Design\VisualPlatform_Design.csproj", "{37FAC069-D436-4431-A3ED-0F90C3588240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualPlatform_Client", "VisualPlatform_Client\VisualPlatform_Client.csproj", "{613BBCCF-CB75-4150-9823-F2971276E7BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualPlatform_Client", "VisualPlatform_Client\VisualPlatform_Client.csproj", "{613BBCCF-CB75-4150-9823-F2971276E7BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualPlatform_Core", "VisualPlatform_Core\VisualPlatform_Core.csproj", "{79CC4146-D6DE-4804-A4CE-4FE01EF061A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualPlatform_Core", "VisualPlatform_Core\VisualPlatform_Core.csproj", "{79CC4146-D6DE-4804-A4CE-4FE01EF061A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualPlatform_Common", "VisualPlatform_Common\VisualPlatform_Common.csproj", "{71E23415-43D3-479B-B223-2AD17D01C1B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualPlatform_Common", "VisualPlatform_Common\VisualPlatform_Common.csproj", "{71E23415-43D3-479B-B223-2AD17D01C1B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualPlatform_Control", "VisualPlatform_Control\VisualPlatform_Control.csproj", "{82011AD4-6FAF-4A40-B392-1048195B5AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualPlatform_Control", "VisualPlatform_Control\VisualPlatform_Control.csproj", "{82011AD4-6FAF-4A40-B392-1048195B5AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualPlatform_Temp", "VisualPlatform_Temp\VisualPlatform_Temp.csproj", "{63858160-CDED-40E3-B4E0-C57D615655CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C1C95D38-12E4-4ED2-853E-D0E62A03EBC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{82011AD4-6FAF-4A40-B392-1048195B5AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82011AD4-6FAF-4A40-B392-1048195B5AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82011AD4-6FAF-4A40-B392-1048195B5AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63858160-CDED-40E3-B4E0-C57D615655CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63858160-CDED-40E3-B4E0-C57D615655CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63858160-CDED-40E3-B4E0-C57D615655CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63858160-CDED-40E3-B4E0-C57D615655CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C95D38-12E4-4ED2-853E-D0E62A03EBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C95D38-12E4-4ED2-853E-D0E62A03EBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C95D38-12E4-4ED2-853E-D0E62A03EBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C95D38-12E4-4ED2-853E-D0E62A03EBC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
